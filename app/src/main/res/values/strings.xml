@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sociolala</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="error">Gagal memuat data.. Koneksi error</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="profil">Profil</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+    <string name="tambah_makeup">Tambah Makeup</string>
+    <string name="nama_cosmetic">Nama cosmetic</string>
+    <string name="jenis_cosmetic">Jenis Cosmetic</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Yakin Ingin Menghapus?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan list</string>
+    <string name="grid">Tampilan grid</string>
+</resources>
